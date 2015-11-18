@@ -1,0 +1,6 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject\FitnessClubMemberProject\bin\Debug\FitnessClubMemberProject.exe.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject\FitnessClubMemberProject\bin\Debug\FitnessClubMemberProject.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject\FitnessClubMemberProject\bin\Debug\FitnessClubMemberProject.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject\FitnessClubMemberProject\obj\Debug\FitnessClubMemberProject.csprojResolveAssemblyReference.cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject\FitnessClubMemberProject\obj\Debug\FitnessClubMemberProject.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject\FitnessClubMemberProject\obj\Debug\FitnessClubMemberProject.pdb
